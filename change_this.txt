@@ -1,3 +1,8 @@
 This file is the one I'll use to test out commits.
 To begin with, I'm adding few lines in this text file.
 Let's do the first commit.
+
+Once the first commit went in, I am planning to make some more changes as this line indicates.
+With more such changes, I shall be ready fro my first release.
+Let's do a commit first and then move forward to release the version 1.0.0.
+
