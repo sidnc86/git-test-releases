@@ -10,3 +10,6 @@ Now that version 1.0.0 has been released, I'm now making more commits introducin
 Let's commit these patches and features together for now.
 Let's target them to be released as part of Version 1.1.0
 
+As part of feature, let's also introduce a new file by name one_more.txt.
+Let's commit these changes and that file together.
+
