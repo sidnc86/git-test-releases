@@ -10,4 +10,6 @@ Actually, a new release development is in progress for V1.1.0.
 Now I'm planning to patch and fix some issues with V1.0.1.
 With these chagnes, I should be able to push across in-between release across.
 Let's commit and try to release.
-
+Before releasing, it is important to understand that the release should happen from this branch itself.
+If we try to merge these changes with current master branch, V1.1.0 in-progress changes will be part of V1.0.1 which is not as per plan.
+Once release happens from this branch, it would be wise to delete this branch. It is important to verify whether Github allows to delete branch on which releases have been tagged.
