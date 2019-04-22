@@ -1,0 +1,3 @@
+This file is the one I'll use to test out commits.
+To begin with, I'm adding few lines in this text file.
+Let's do the first commit.
