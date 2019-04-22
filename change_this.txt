@@ -6,3 +6,8 @@ Once the first commit went in, I am planning to make some more changes as this l
 With more such changes, I shall be ready fro my first release.
 Let's do a commit first and then move forward to release the version 1.0.0.
 
+Actually, a new release development is in progress for V1.1.0.
+Now I'm planning to patch and fix some issues with V1.0.1.
+With these chagnes, I should be able to push across in-between release across.
+Let's commit and try to release.
+
