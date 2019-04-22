@@ -6,6 +6,14 @@ Once the first commit went in, I am planning to make some more changes as this l
 With more such changes, I shall be ready fro my first release.
 Let's do a commit first and then move forward to release the version 1.0.0.
 
+Actually, a new release development is in progress for V1.1.0.
+Now I'm planning to patch and fix some issues with V1.0.1.
+With these changes, I should be able to push across in-between release across.
+Let's commit and try to release.
+Before releasing, it is important to understand that the release should happen from this branch itself.
+If we try to merge these changes with current master branch, V1.1.0 in-progress changes will be part of V1.0.1 which is not as per plan.
+Once release happens from this branch, it would be wise to delete this branch. It is important to verify whether Github allows to delete branch on which releases have been tagged.
+
 Now that version 1.0.0 has been released, I'm now making more commits introducing some new features and patch fixes  to current product code base.
 Let's commit these patches and features together for now.
 Let's target them to be released as part of Version 1.1.0
