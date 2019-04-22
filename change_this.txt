@@ -6,3 +6,7 @@ Once the first commit went in, I am planning to make some more changes as this l
 With more such changes, I shall be ready fro my first release.
 Let's do a commit first and then move forward to release the version 1.0.0.
 
+Now that version 1.0.0 has been released, I'm now making more commits introducing some new features and patch fixes  to current product code base.
+Let's commit these patches and features together for now.
+Let's target them to be released as part of Version 1.1.0
+
